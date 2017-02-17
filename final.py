@@ -32,7 +32,7 @@ driver.set_window_position(1920,1080)
 # driver.maximize_window()
 
 #calling google image search
-driver.get("https://www.google.co.in/search?q=mark+zuckerberg&client=ubuntu&hs=dKP&channel=fs&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjfj4_Rr_vRAhUDRo8KHVUFD5oQ_AUICSgC&biw=1311&bih=676")
+driver.get("****")
 #taking Id of uplaod button
 driver.find_element_by_id("qbi").click()
 
